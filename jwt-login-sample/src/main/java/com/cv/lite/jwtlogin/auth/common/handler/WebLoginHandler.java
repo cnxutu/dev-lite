@@ -1,15 +1,8 @@
-package com.cv.lite.common.handler;
+package com.cv.lite.jwtlogin.auth.common.handler;
 
-import com.cv.kb.auth.common.enums.LoginTypeEnum;
-import com.cv.kb.auth.login.pojo.query.LoginQuery;
-import com.cv.kb.auth.login.pojo.vo.WebLoginVO;
-import com.cv.kb.auth.security.common.util.JwtUtils;
-import com.cv.kb.auth.security.pojo.dto.UserDetailDTO;
-import com.cv.kb.auth.security.service.impl.CustomUserDetailsService;
+import com.cv.lite.jwtlogin.auth.common.util.JwtUtils;
+import com.cv.lite.jwtlogin.auth.pojo.vo.WebLoginVO;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
-import org.springframework.security.core.Authentication;
-import org.springframework.security.core.AuthenticationException;
 import org.springframework.stereotype.Component;
 
 /**

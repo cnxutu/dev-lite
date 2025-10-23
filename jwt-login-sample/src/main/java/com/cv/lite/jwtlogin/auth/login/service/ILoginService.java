@@ -1,4 +1,4 @@
-package com.cv.lite.login.service;
+package com.cv.lite.jwtlogin.auth.login.service;
 
 /**
  * @author: xutu

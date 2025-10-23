@@ -1,6 +1,6 @@
-package com.cv.lite.login.service.impl;
+package com.cv.lite.jwtlogin.auth.login.service.impl;
 
-import com.cv.lite.login.service.ILoginService;
+import com.cv.lite.jwtlogin.auth.login.service.ILoginService;
 import org.springframework.stereotype.Service;
 
 /**

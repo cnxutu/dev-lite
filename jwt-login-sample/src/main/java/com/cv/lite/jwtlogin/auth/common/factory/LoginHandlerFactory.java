@@ -1,4 +1,4 @@
-package com.cv.lite.common.factory;
+package com.cv.lite.jwtlogin.auth.common.factory;
 
 import com.cv.kb.auth.login.handler.AbstractLoginHandler;
 import com.cv.kb.auth.login.pojo.query.LoginQuery;

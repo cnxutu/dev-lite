@@ -1,4 +1,4 @@
-package com.cv.lite.pojo.vo;
+package com.cv.lite.jwtlogin.auth.pojo.vo;
 
 import lombok.Data;
 import lombok.experimental.SuperBuilder;

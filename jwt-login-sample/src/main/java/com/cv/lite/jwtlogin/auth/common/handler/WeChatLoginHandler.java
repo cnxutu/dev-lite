@@ -1,4 +1,4 @@
-package com.cv.lite.common.handler;
+package com.cv.lite.jwtlogin.auth.common.handler;
 
 import com.cv.kb.auth.common.enums.LoginTypeEnum;
 import com.cv.kb.auth.login.pojo.query.LoginQuery;

@@ -1,4 +1,4 @@
-package com.cv.lite.login.controller;
+package com.cv.lite.jwtlogin.auth.login.controller;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

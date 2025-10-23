@@ -1,4 +1,4 @@
-package com.cv.lite.pojo.query;
+package com.cv.lite.jwtlogin.auth.pojo.query;
 
 import lombok.Data;
 
