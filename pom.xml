@@ -14,12 +14,21 @@
 
     <groupId>com.cv</groupId>
     <artifactId>dev-lite</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <packaging>pom</packaging>
     <modules>
-        <module>jwt-login-sample</module>
-        <module>tk-mybatis-sample</module>
+        <module>c1-orm-solution</module>
+        <module>c2-auth-solution</module>
+        <module>c3-async-solution</module>
+        <module>c4-network-solution</module>
+        <module>c5-file-solution</module>
+        <module>c6-cache-solution</module>
+        <module>c7-message-solution</module>
+        <module>c8-config-ops-solution</module>
+        <module>c9-testing-solution</module>
+        <module>c10-utils-solution</module>
+        <module>c11-jvm-solution</module>
     </modules>
 
     <properties>
