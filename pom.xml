@@ -18,17 +18,17 @@
 
     <packaging>pom</packaging>
     <modules>
-        <module>c1-orm-solution</module>
-        <module>c2-auth-solution</module>
-        <module>c3-async-solution</module>
-        <module>c4-network-solution</module>
-        <module>c5-file-solution</module>
-        <module>c6-cache-solution</module>
-        <module>c7-message-solution</module>
-        <module>c8-config-ops-solution</module>
-        <module>c9-testing-solution</module>
-        <module>c10-utils-solution</module>
-        <module>c11-jvm-solution</module>
+        <module>c1-orm-lib</module>
+        <module>c2-auth-lib</module>
+        <module>c3-async-lib</module>
+        <module>c4-network-lib</module>
+        <module>c5-file-lib</module>
+        <module>c6-cache-lib</module>
+        <module>c7-message-lib</module>
+        <module>c8-config-ops-lib</module>
+        <module>c9-testing-lib</module>
+        <module>c10-utils-lib</module>
+        <module>c11-jvm-lib</module>
     </modules>
 
     <properties>
