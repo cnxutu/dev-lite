@@ -5,23 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.cv</groupId>
-        <artifactId>dev-lite</artifactId>
+        <artifactId>c1-orm-solution</artifactId>
         <version>1.0.0</version>
     </parent>
 
-    <artifactId>c1-orm-solution</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0.0</version>
-
-    <modules>
-        <module>tk-mybatis-sample</module>
-        <module>mybatis-plus-sample</module>
-        <module>jpa-sample</module>
-        <module>tk-mybatis-plus-combined-sample</module>
-        <module>mp-shardingjdbc4-sample</module>
-        <module>mp-shardingjdbc5-sample</module>
-        <module>mp-clickhouse-sample</module>
-    </modules>
+    <artifactId>mp-clickhouse-sample</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
