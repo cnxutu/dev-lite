@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: jwt-login-sample
+
+jwt:
+  secret: your-secret-key-here
+  expiration: 3600000 # 1 hour in milliseconds
+  header: Authorization
